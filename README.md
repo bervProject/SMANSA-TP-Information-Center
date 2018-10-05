@@ -1,4 +1,7 @@
 # SMANSA TP Information Center
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4d9b500882004f44a8ea33c8d93de0fa)](https://app.codacy.com/app/berviantoleo/SMANSA-TP-Information-Center?utm_source=github.com&utm_medium=referral&utm_content=bervProject/SMANSA-TP-Information-Center&utm_campaign=Badge_Grade_Settings)
+
 Android Application build with Kotlin for provide information about SMA Negeri 1 Tanjungpandan 
 
 # TODO
