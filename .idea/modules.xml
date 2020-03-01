@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SMANSA-TP-Information-Center.iml" filepath="$PROJECT_DIR$/SMANSA-TP-Information-Center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/SMANSA-TP-Information-Center-app.iml" filepath="$PROJECT_DIR$/app/SMANSA-TP-Information-Center-app.iml" group="SMANSA-TP-Information-Center/app" />
+      <module fileurl="file://$PROJECT_DIR$/StudioProjects-SMANSA-TP-Information-Center.iml" filepath="$PROJECT_DIR$/StudioProjects-SMANSA-TP-Information-Center.iml" group="SMANSA-TP-Information-Center" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
