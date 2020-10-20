@@ -14,9 +14,10 @@ android:
     - 'google-gdk-license-.+'
 
 jdk:
-  - oraclejdk12
+  - oraclejdk11
 
 before_script:
+  - export JAVA_OPTS='-XX:+IgnoreUnrecognizedVMOptions --add-modules java.se.ee'
   - yes | sdkmanager "platforms;android-30"
   - yes | sdkmanager "build-tools;29.0.3"
   - chmod +x ./gradlew
