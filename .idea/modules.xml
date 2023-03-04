@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SMANSA-TP-Information-Center.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SMANSA-TP-Information-Center.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StudioProjects.SMANSA-TP-Information-Center.iml" filepath="$PROJECT_DIR$/.idea/modules/StudioProjects.SMANSA-TP-Information-Center.iml" />
-    </modules>
-  </component>
-</project>
