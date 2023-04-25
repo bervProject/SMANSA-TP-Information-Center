@@ -3,12 +3,12 @@ apply plugin: 'realm-android'
 apply plugin: 'kotlin-android'
 
 android {
-    compileSdkVersion 33
+    compileSdkVersion "android-UpsideDownCake"
     defaultConfig {
         applicationId "net.berviantoleo.smansatpinformationcenter"
         minSdkVersion 19
         multiDexEnabled true
-        targetSdkVersion 33
+        targetSdkVersion "android-UpsideDownCake"
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
