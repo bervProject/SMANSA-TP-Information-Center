@@ -3,7 +3,7 @@ apply plugin: 'realm-android'
 apply plugin: 'kotlin-android'
 
 android {
-    compileSdkVersion 33
+    compileSdk 33
     defaultConfig {
         applicationId "net.berviantoleo.smansatpinformationcenter"
         minSdkVersion 19
@@ -14,8 +14,8 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     compileOptions {
-        sourceCompatibility 1.8
-        targetCompatibility 1.8
+        sourceCompatibility 17
+        targetCompatibility 17
     }
 
     buildFeatures {
@@ -27,6 +27,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    namespace 'net.berviantoleo.smansatpinformationcenter'
 }
 
 dependencies {
