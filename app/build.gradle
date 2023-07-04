@@ -3,7 +3,7 @@ apply plugin: 'realm-android'
 apply plugin: 'kotlin-android'
 
 android {
-    compileSdk 33
+    compileSdk 34
     defaultConfig {
         applicationId "net.berviantoleo.smansatpinformationcenter"
         minSdkVersion 19
