@@ -6,7 +6,7 @@ android {
     compileSdk 34
     defaultConfig {
         applicationId "net.berviantoleo.smansatpinformationcenter"
-        minSdkVersion 19
+        minSdkVersion 21
         multiDexEnabled true
         targetSdkVersion 34
         versionCode 1
