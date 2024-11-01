@@ -35,7 +35,7 @@ dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
     implementation 'androidx.appcompat:appcompat:1.7.0'
     implementation 'androidx.multidex:multidex:2.0.1'
-    implementation 'com.google.android.material:material:1.13.0-alpha06'
+    implementation 'com.google.android.material:material:1.13.0-alpha07'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
     implementation "org.jetbrains.anko:anko:0.10.8"
     implementation "com.squareup.retrofit2:retrofit:2.11.0"
